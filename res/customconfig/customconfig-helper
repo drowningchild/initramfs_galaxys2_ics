@@ -2,8 +2,6 @@
 # custom script helper by Gokhan Moral
 
 DEFAULT_PROFILE=/res/customconfig/default.profile
-BATTERY_PROFILE=/res/customconfig/battery.profile
-PERFORMANCE_PROFILE=/res/customconfig/performance.profile
 CONFIG_XML=/res/customconfig/customconfig.xml
 PROFILE_PATH=/data/.uci
 TEMP_CONFIG=$PROFILE_PATH/.config.tmp
